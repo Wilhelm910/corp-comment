@@ -1,4 +1,3 @@
-
 ## About The Project
 This is a simple note app. It allows you to create comments and sort them.
 
